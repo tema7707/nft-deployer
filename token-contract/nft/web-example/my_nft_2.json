@@ -1,0 +1,19 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "type",
+      "value" : "sword"
+    },
+    {
+      "trait_type" : "damage",
+      "value" : 5.7
+    },
+    {
+      "trait_type" : "scale",
+      "value" : 1.5
+    }
+  ],
+  "description" : "Infinity Sword",
+  "image" : "https://imagizer.imageshack.com/img924/4241/pLjsrF.png",
+  "name" : "Infinity Sword"
+}
