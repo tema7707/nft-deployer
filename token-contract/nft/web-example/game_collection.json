@@ -1,0 +1,8 @@
+{
+  "name": "Test Assets",
+  "description": "Test nft assets",
+  "image": "https://imagizer.imageshack.com/img922/8972/VYvHki.png",
+  "external_link": "https://github.com/tema7707",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
+}
