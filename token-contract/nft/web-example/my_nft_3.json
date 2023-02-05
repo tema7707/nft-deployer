@@ -1,0 +1,19 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "type",
+      "value" : "shield"
+    },
+    {
+      "trait_type" : "protection",
+      "value" : 10.0
+    },
+    {
+      "trait_type" : "scale",
+      "value" : 0.9
+    }
+  ],
+  "description" : "Shield",
+  "image" : "https://imagizer.imageshack.com/img923/361/ZrLBId.png",
+  "name" : "Shield"
+}
