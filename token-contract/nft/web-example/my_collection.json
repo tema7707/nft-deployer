@@ -1,8 +1,8 @@
 {
-  "name": "Marketplace Creatures",
-  "description": "Marketplace Creatures are adorable aquatic beings primarily for demonstrating what can be done using the Marketplace platform. Adopt one today to try out all the Marketplace buying, selling, and bidding feature set.",
-  "image": "https://ton.org/img/duck.svg",
-  "external_link": "https://matketplacecreatures.io",
+  "name": "Ggame Assets",
+  "description": "Test nft collection of game assets",
+  "image": "https://imagizer.imageshack.com/img922/8972/VYvHki.png",
+  "external_link": "https://github.com/tema7707",
   "seller_fee_basis_points": 100,
   "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
 }
